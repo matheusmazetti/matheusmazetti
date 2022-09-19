@@ -1,16 +1,27 @@
-### Hi there 👋
+<img src="https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**matheusmazetti/matheusmazetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Oi! Eu sou o Matheus, e sou <strong>Dev FullStack</strong>.<br>
+  No momento estou estudando na Driven Education e procurando o primeiro trabalho como dev
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript, React, Node, Express, SQL, TypeScript, Prisma, Redis, MongoDB</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 DevOps: <strong>Docker, AWS, CI/CD, GitHub Actions</strong>
+</p>
+
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheus.mazetti.22@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmazetti/" /></a>
+
+</p>  
