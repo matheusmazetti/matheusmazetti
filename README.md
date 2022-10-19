@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hey! I'm Matheus, and I'm <strong>Full Stack Developer</strong>.<br>
+  Hey! I'm Matheus, and I'm a <strong>Full Stack Developer</strong>.<br>
   I'm currently studying at Driven Education and looking for my first job as a developer
 </p>
 
