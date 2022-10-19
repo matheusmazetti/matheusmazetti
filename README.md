@@ -1,12 +1,12 @@
 <img src="https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Oi! Eu sou o Matheus, e sou <strong>Dev FullStack</strong>.<br>
-  No momento estou estudando na Driven Education e procurando o primeiro trabalho como dev
+  Hey! I'm Matheus, and I'm <strong>Full Stack Developer</strong>.<br>
+  I'm currently studying at Driven Education and looking for my first job as a developer
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, React, Node, Express, SQL, TypeScript, Prisma, Redis, MongoDB</strong>
+  🦄 Stacks: <strong>HTML, CSS, JavaScript, React, Node, Express, SQL, TypeScript, Prisma, Redis, MongoDB</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 Contact me: ⤵️
 </p>
 
 <p align="left">
